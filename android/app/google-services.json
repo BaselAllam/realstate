@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35890120818",
+    "firebase_url": "https://senior2-b1005.firebaseio.com",
+    "project_id": "senior2-b1005",
+    "storage_bucket": "senior2-b1005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35890120818:android:d7151dceb1c68d953fdaeb",
+        "android_client_info": {
+          "package_name": "com.example.seniorsteps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35890120818-mkj0sqfn400i004uj9aqjnv43dldu0dl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.seniorsteps",
+            "certificate_hash": "abef9d4b46a6cba83d95438e8d44e4ed6a6d5eed"
+          }
+        },
+        {
+          "client_id": "35890120818-t6r5n1ppj9eg20u5hq6478tpd4ljtrtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF3O4N-z7lAkqI-p2X1YkjUplUxbRRKrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35890120818-t6r5n1ppj9eg20u5hq6478tpd4ljtrtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
